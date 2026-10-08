@@ -1,0 +1,7 @@
+.venv/
+.env
+data/
+vectorstore/
+__pycache__/
+.idea/
+.vscode/
